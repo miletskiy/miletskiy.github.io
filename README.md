@@ -1,2 +1,2 @@
 # miletskiy.github.io
-CV Miletskiy
+CV Miletskiy.
